@@ -1,7 +1,7 @@
  A base de um aplicativo móvel, construído com React Native e TypeScript, focado no gerenciamento de alunos e suas respectivas notas.
 
 🎯 Objetivo do Projeto
-Este projeto foi criado como parte do meu portfólio para demonstrar habilidades em desenvolvimento mobile híbrido, utilizando tecnologias modernas para criar um sistema escolar funcional.
+* Este projeto foi criado como parte do meu portfólio para demonstrar habilidades em desenvolvimento mobile híbrido, utilizando tecnologias modernas para criar um sistema escolar funcional.
 
 🛠️ Tecnologias Utilizadas
 * React Native: Framework principal para o desenvolvimento do app.
