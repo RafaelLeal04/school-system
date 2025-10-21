@@ -5,7 +5,7 @@
 
 🛠️ Tecnologias Utilizadas
 * React Native: Framework principal para o desenvolvimento do app.
-* TypeScript: Para adicionar tipagem estática e segurança ao código JavaScript.
+* TypeScript: Para adicionar tipagem estática e segurança ao código.
 * React Navigation: Para gerenciar a navegação entre as telas.
 
 O aplicativo permite:
